@@ -1,11 +1,11 @@
 [
   {
     "path": "posts/2021-05-25-datavizmakeover1/",
-    "title": "DataVizMakeover1",
-    "description": "A short description of the post.",
+    "title": "DataViz Makeover1",
+    "description": "DataViz Makeover 1 for ISSS608: Visual Analytics",
     "author": [
       {
-        "name": "Li Shuxian",
+        "name": "Li ShuXian",
         "url": "https://example.com/norajones"
       }
     ],
@@ -13,8 +13,8 @@
     "categories": [],
     "contents": "\r\nDistill is a publication format for scientific and technical writing, native to the web.\r\nLearn more about using Distill at https://rstudio.github.io/distill.\r\n\r\n\r\n\r\n",
     "preview": {},
-    "last_modified": "2021-05-25T16:06:55+08:00",
-    "input_file": {}
+    "last_modified": "2021-05-26T23:11:10+08:00",
+    "input_file": "datavizmakeover1.knit.md"
   },
   {
     "path": "posts/welcome/",

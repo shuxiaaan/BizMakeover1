@@ -1,9 +1,9 @@
 ---
-title: "DataVizMakeover1"
+title: "DataViz Makeover1"
 description: |
-  A short description of the post.
+  DataViz Makeover 1 for ISSS608: Visual Analytics
 author:
-  - name: Li Shuxian
+  - name: Li ShuXian
     url: https://example.com/norajones
 date: 05-25-2021
 output:
