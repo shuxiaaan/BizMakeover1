@@ -51,7 +51,7 @@ The proposed design is shown in the following.
   3. Tick marks are not used for categories.
 
 # 3.0 Proposed Visualisation
-For a clearer graph, please click the link on Tableau Public here. 
+For a clearer graph, please click the link on Tableau Public [here.](https://public.tableau.com/app/profile/shuxian.jovina.li/viz/Makeover1_16223639007100/Makeover1)
 
 # 4.0	Step-by-step Guide
 
